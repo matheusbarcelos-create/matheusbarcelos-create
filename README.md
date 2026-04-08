@@ -34,7 +34,6 @@
 
 🔹 Em breve projetos sendo publicados.
 
----
 
 ## 📫 Contato
 
