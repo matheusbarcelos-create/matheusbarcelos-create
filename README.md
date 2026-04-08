@@ -13,7 +13,7 @@
  Atualmente, estou focado no aprimoramento de minhas habilidades em front-end, bem como no desenvolvimento de projetos para a composição do meu portfólio.<br>
  Ademais, permaneço aberto a novas oportunidades que possam contribuir para o meu crescimento profissional, as quais serão recebidas com grande entusiasmo.**
 
- ## 💻 Tecnologias com as quais tenho experiência:
+ ## 💻 Tecnologias com as quais tenho experiência
 
 <p>
   
