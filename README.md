@@ -32,7 +32,7 @@
 
 ## 📂 Projetos
 
- <p> <a href="https://matheusbarcelos-create.github.io/portf-lio/"> <img src="https://img.shields.io/badge/Portfólio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"> </a> </p> 
+ <p> <a href="https://github.com/matheusbarcelos-create/portf-lio"> <img src="https://img.shields.io/badge/Portfólio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"> </a> </p> 
   <p> <a href="https://matheusbarcelos-create.github.io/trabalho/"> <img src="https://img.shields.io/badge/Trabalho_Acadêmico-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white"> </a> </p>
 
 
