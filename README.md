@@ -5,8 +5,6 @@
 
 🎓 Estudante de **Engenharia de Computação na UNIVERSIDADE DE UBERABA (UNIUBE)**
 <br>
-💻 Atualmente aprendendo **HTML, CSS e JavaScript**
-<br>
 🚀 Buscando **oportunidades na área de desenvolvimento**
 
 **Possuo interesse nas áreas de desenvolvimento web, automação e tecnologia.<br>
